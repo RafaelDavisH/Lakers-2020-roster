@@ -1,0 +1,27 @@
+{
+  "name": "lkrs-2020-roster",
+  "version": "1.0.0",
+  "description": "Get random lakers 2020 names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelDavisH/Lakers-2020-roster.git"
+  },
+  "keywords": [
+    "random",
+    "lakers",
+    "2020"
+  ],
+  "author": "Rafael D. Hernandez <rafaeldavish443@gmail.com> (https://rafaeldavis.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaelDavisH/Lakers-2020-roster/issues"
+  },
+  "homepage": "https://github.com/RafaelDavisH/Lakers-2020-roster#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
