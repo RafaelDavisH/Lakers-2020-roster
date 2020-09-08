@@ -1,5 +1,5 @@
 {
-  "name": "lkrs-2020-roster",
+  "name": "@rafaeldavish/lkrs-2020-roster",
   "version": "1.0.0",
   "description": "Get random lakers 2020 names",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RafaelDavisH/Lakers-2020-roster.git"
+    "url": "git://github.com/RafaelDavisH/Lakers-2020-roster.git"
   },
   "keywords": [
     "random",
